@@ -20,7 +20,7 @@ A NestJS-based REST API for retrieving Solana blockchain data. This service prov
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone [https://github.com/Laikaiyong/Solana-Block-Transaction-API](https://github.com/Laikaiyong/Solana-Block-Transaction-API)
 cd solana-data-api
 
 # Install dependencies
